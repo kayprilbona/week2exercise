@@ -1,0 +1,82 @@
+/*In CSS: Select the body element and set the margin to 0.*/
+body {
+	margin: 0;
+}
+/*In CSS: Select the ul element and set the padding to 0.*/
+ul {
+	padding: 0;
+}
+/*In CSS: Select the h1 element and set font-size to 2em.*/
+h1 {
+	font-size: 2em;
+}
+/*In CSS: Add 4 CSS properties to the nav element (background-color, margin, padding & text-align).*/
+nav {
+	background-color: #FFF;
+	height: 50px;
+	margin: 0;
+	padding: 0;
+	text-align: center;
+}
+/*In CSS: Add 4 CSS properties to the li element (background-color, display, margin & padding).*/
+li {
+	display: inline-block;
+}
+
+/*In CSS: Add 2 CSS properties to the a element (color & text-decoration).*/
+a {
+	background-color: #ff402b;
+	text-decoration: none;
+	color: #FFF;
+	padding: 10px;
+	margin: 20px;
+	border: solid;
+	
+}
+/*In CSS: Add 3 CSS properties to the section element (background-color, text-align & display with a value of table).*/
+section {
+	background-color: #f9f4f4;
+	text-align: center;
+	display: table;
+}
+/*In CSS: Add 2 CSS properties to those divs with a class of box (float to the left & width of 33.333333333%).*/
+ .box {
+	float: left;
+	width: 33.333333333%;
+}
+/*In CSS: Select the img element inside the div elements and add 2 properties (width of less than 100% & height).*/
+img {
+	width: 50%;
+	height: 50%;
+	border: solid;
+	border-color: #FFF;
+}
+/*In CSS: Select the p element inside the div elements and add 5 properties (background-color, border, height margin & padding).*/
+p {
+	background-color: #ff402b;
+	border: solid;
+	border-color: #FFF;
+	height: 20px 20px;
+	margin: 30px 30px;
+	padding: 20px 20px;
+}
+/* In CSS: Add 3 CSS properties to those footer (background-color, padding & text-align). */
+
+footer {
+	background-color: ff402b;
+	padding: 20px 20px;
+	text-align: center;
+}
+/*In CSS: Add 4 CSS properties to the new li elements (background-color, display, margin & padding).*/
+ul.red {
+	display: inline-block;
+	margin: 30px 20px;
+}
+
+
+
+
+
+
+
+
